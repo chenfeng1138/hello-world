@@ -1,2 +1,3 @@
 # hello-world
-my new repository
+This is my new repository.
+I like node.js.
